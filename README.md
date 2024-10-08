@@ -5,7 +5,7 @@
 
 - [Git download ](https://git-scm.com/downloads)
 - [Github](https://github.com/)
-
+- [complete git and GitHub Hand written.pdf](Resources%2Fcomplete%20git%20and%20GitHub%20Hand%20written.pdf)
 ## What is Git?
 Git is a version control system that allows developers to track changes made to their code over time. It's a distributed system, meaning that every developer working on a project has a local copy of the entire project history, which makes it easy to collaborate with others.
 
