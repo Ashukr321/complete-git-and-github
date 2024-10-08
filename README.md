@@ -6,6 +6,10 @@
 - [Git download ](https://git-scm.com/downloads)
 - [Github](https://github.com/)
 - [complete git and GitHub Hand written.pdf](Resources%2Fcomplete%20git%20and%20GitHub%20Hand%20written.pdf)
+- [GIT CHEATSHEET-1.pdf](Resources%2FGIT%20CHEATSHEET-1.pdf)
+- [Important Git commands every developer must know.pdf](Resources%2FImportant%20Git%20commands%20every%20developer%20must%20know.pdf)
+- [Git and Github.pdf](Resources%2FGit%20and%20Github.pdf)
+- [Git CheatSheet  v 2 .pdf](Resources%2FGit%20CheatSheet%20%20v%202%20.pdf)
 ## What is Git?
 Git is a version control system that allows developers to track changes made to their code over time. It's a distributed system, meaning that every developer working on a project has a local copy of the entire project history, which makes it easy to collaborate with others.
 
@@ -41,6 +45,39 @@ It's a social coding platform that allows developers to share their code, collab
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-7ba1a6211/)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashukr321/)
 
+##  🐈‍⬛ Git Important Command 🧑‍💻
+
+## Distributed Version Control System 
+* A distributed version control system is a type of version control that allows multiple developers to collaborate on a project by creating a local copy of the entire project history, rather than relying on a single central repository. This decentralized approach enables each developer to work independently, and changes are tracked between computers, from one developer's workstation to another.
+
+* Key Features of Distributed Version Control Systems
+* Allows users to work productively when not connected to a network
+* Common operations (such as commits, viewing history, and reverting changes) are faster
+  Multiple copies of the software eliminate reliance on a single backup
+
+* Enables automatic management of branching and merging
+  Speeds up most operations (except pushing and pulling)
+## Examples of Distributed Version Control Systems
+* Git
+* Mercurial
+* Bazaar
+## Basic Architecture 
+![img.png](Resources/img.png)
+## Stage of Git and WorkFlow 
+![img_1.png](Resources/img_1.png)
+
+## Git Initialization
+### Common Use Cases
+* Creating a new project and initializing a Git repository from scratch
+* Converting an existing project to use Git version control
+* Creating a bare repository for sharing or deployment purposes
+
+
+    git init
+
+
+
+### 
 
 ## 🚀 About Me
 I'm ASHUTOSH KUMAR FULLSTACK DEVELOPER 
