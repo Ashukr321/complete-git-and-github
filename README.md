@@ -10,6 +10,7 @@
 - [Important Git commands every developer must know.pdf](Resources%2FImportant%20Git%20commands%20every%20developer%20must%20know.pdf)
 - [Git and Github.pdf](Resources%2FGit%20and%20Github.pdf)
 - [Git CheatSheet  v 2 .pdf](Resources%2FGit%20CheatSheet%20%20v%202%20.pdf)
+- [Branching Naming Conventions](Resources/Branching_Naming_Convention__compressed.pdf)
 ## What is Git?
 Git is a version control system that allows developers to track changes made to their code over time. It's a distributed system, meaning that every developer working on a project has a local copy of the entire project history, which makes it easy to collaborate with others.
 
