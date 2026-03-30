@@ -14,9 +14,15 @@
 ## What is Git?
 Git is a version control system that allows developers to track changes made to their code over time. It's a distributed system, meaning that every developer working on a project has a local copy of the entire project history, which makes it easy to collaborate with others.
 
+### To create new branch 
 ```bash
 git switch -c "feat/branc-name"
 ```
+### To check all branch local and remote 
+```bash
+git branch -a
+```
+
 Git is primarily used for source code management, but it can be used to track changes in any set of files.
 
 ## key features of Git:
